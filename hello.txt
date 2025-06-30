@@ -1,1 +1,5 @@
 This is a team update
+<<<<<<< HEAD
+=======
+This is a team update
+>>>>>>> f34f310 (Add team update)
